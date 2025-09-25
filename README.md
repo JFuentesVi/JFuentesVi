@@ -4,7 +4,7 @@
 
 🏠 **Vitigudino (Salamanca)**
 
-🎓 **Estudiante Ingeniería Informática UPSA**
+🎓 **Estudiante Ingeniería Informática UPSA** <img src="https://www.upsa.es/sites/default/files/logo_upsa_horizontal.png" alt="UPSA Logo" width="60" height="20"/>
 
 ---
 
