@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-🏠 **Salamanca**
+🤵🏻 **Jesús Fuentes Vicente**
 
-🎓 **Ingeniería Informática UPSA**
+🏠 **Vitigudino (Salamanca)**
+
+🎓 **Estudiante Ingeniería Informática UPSA**
 
 ---
 
