@@ -6,7 +6,7 @@ This is a personal GitHub profile repository for JFuentesVi.
 - **Owner**: JFuentesVi
 - **Location**: Salamanca, Spain
 - **Education**: Ingeniería Informática UPSA (Computer Engineering at Universidad Pontificia de Salamanca)
-- **Type**: Personal GitHub profile repository
+- **Type**: Student GitHub profile repository
 
 ## Repository Structure
 - `README.md`: Main profile README displayed on GitHub profile page
