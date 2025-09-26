@@ -1,23 +1,10 @@
 ## Hi there 👋
 
-<table border="0">
-<tr>
-<td>
-
-🤵🏻 **Jesús Fuentes Vicente**
+🤵🏻 **Jesús Fuentes Vicente** <img src="./assets/upsa-logo.jpg" alt="Universidad Pontificia de Salamanca" height="80" align="right"/>
 
 🏠 **Vitigudino (Salamanca)**
 
 🎓 **Estudiante Ingeniería Informática UPSA**
-
-</td>
-<td align="right">
-
-<img src="./assets/upsa-logo.jpg" alt="Universidad Pontificia de Salamanca" height="80" align="right"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
