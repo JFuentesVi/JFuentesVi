@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -11,9 +11,9 @@
 🎓 **Estudiante Ingeniería Informática UPSA**
 
 </td>
-<td width="200px" align="right">
+<td align="right">
 
-<img src="./assets/upsa-logo.jpg" alt="Universidad Pontificia de Salamanca" height="80"/>
+<img src="./assets/upsa-logo.jpg" alt="Universidad Pontificia de Salamanca" height="80" align="right"/>
 
 </td>
 </tr>
